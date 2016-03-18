@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Tokyo Wakalao</title>
+   
+    
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+   
+<body>
+   
+    <script>
+        function rotar(){
+    var x = Math.floor((Math.random() *8 ));
+            var c = [360,45,90,135,180,225,270,315];
+var b = document.getElementById("imagen");
+            b.style.transform="rotate("+c[x]+"deg)";
+        
+}  
+    </script>
+     
+    <div id="imagen" onclick="rotar()"><img src="img/9-40-flat-logos.png" alt="">
+     </div>
+    
+   
+   
+</body>
+</html>
