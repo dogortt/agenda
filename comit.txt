@@ -1,0 +1,11 @@
+commit dc778ca532d426f2d2dd5eb1d488d5e2c11e9bbc
+Author: jorge <jenriquef@misena.edu.co>
+Date:   Fri Mar 18 15:03:37 2016 -0500
+
+    modifique el css y le cambie el color
+
+commit 68f0616494468631caaa5af73c3ed1975ddc4b8d
+Author: jorge <jenriquef@misena.edu.co>
+Date:   Fri Mar 18 14:51:17 2016 -0500
+
+    inicie
